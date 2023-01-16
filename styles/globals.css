@@ -46,7 +46,7 @@ width: 100%;
 }
 
 .track {
-  position: absolute;
+  position: relative;
   white-space: nowrap;
   will-change: transform;
   animation: marquee 15s linear infinite;
